@@ -48,3 +48,5 @@
 .sidebar-divider {
     color: blue!important;
 }
+.bg-login-image{background:url(/SmartParkApp/polls/static/img/login.png);
+    background-position:center;background-size:cover}

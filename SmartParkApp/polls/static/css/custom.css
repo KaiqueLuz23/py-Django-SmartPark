@@ -1,0 +1,50 @@
+.bg-gradient-primary{
+    background: #ffff00;
+    background-image: none;
+}
+
+.sidebar .nav-item .nav-link span{
+    color: black;
+}
+
+.sidebar .nav-item .nav-link span{
+    color: black;
+}
+
+.sidebar-dark .sidebar-heading{
+    color: black;
+}
+
+.sidebar-dark .sidebar-brand{
+    color: black;
+}
+
+.text-primary{
+    color: black!important;
+}
+
+/*Estacionar*/
+.border-left-primary{
+    border-left: .25rem solid #52ff00!important;
+}
+/*Sair*/
+.border-left-success{
+    border-left: .25rem solid #ff110b!important;   
+}
+/*LOTAÇÃO*/
+.border-left-info{
+    border-left: .25rem solid #ff6f00!important;
+}
+/*VAGAS*/
+.border-left-warning{
+    border-left: .25rem solid #ffff00!important;
+}
+
+.btn-primary{
+    color: black;
+    background-color: #ffff00;
+    border-color: #ffff00;
+}
+.sidebar-divider {
+    color: blue!important;
+}

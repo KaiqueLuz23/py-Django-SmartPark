@@ -1,26 +1,30 @@
 .bg-gradient-primary{
-    background: #ffff00;
+    background: #2c2c2c;
     background-image: none;
 }
 
 .sidebar .nav-item .nav-link span{
-    color: black;
+    color: white;
 }
 
 .sidebar .nav-item .nav-link span{
-    color: black;
+    color: white;
 }
 
 .sidebar-dark .sidebar-heading{
-    color: black;
+    color: white;
 }
 
 .sidebar-dark .sidebar-brand{
-    color: black;
+    color:#f9b131;
+}
+/*Barra horizontal*/
+.bg-white {
+    background-color: #f9b131!important;
 }
 
 .text-primary{
-    color: black!important;
+    color: #2c2c2c!important;
 }
 
 /*Estacionar*/
@@ -37,13 +41,23 @@
 }
 /*VAGAS*/
 .border-left-warning{
-    border-left: .25rem solid #ffff00!important;
+    border-left: .25rem solid #f9b131!important;
+}
+/*Tag user*/
+.text-gray-600{
+color: #2c2c2c!important;
 }
 
 .btn-primary{
-    color: black;
-    background-color: #ffff00;
-    border-color: #ffff00;
+    color: #f9b131;
+    border:#2c2c2c ;
+    background-color: #2c2c2c;
+    border-color: #2c2c2c;
+}
+.btn-primary:hover{
+    color: #2c2c2c;
+    background-color: #f9b131;
+    border-color: #f9b131;
 }
 .sidebar-divider {
     color: blue!important;

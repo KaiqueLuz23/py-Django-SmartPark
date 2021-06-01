@@ -5,6 +5,9 @@ from django.shortcuts import render
 def home(request):
     return render(request, 'home.html')
 
+def contato(request):
+    return render(request, 'contato.html')
+
 def estacionando(request):
     return render(request, 'index.html')
 
